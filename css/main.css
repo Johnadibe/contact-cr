@@ -445,7 +445,8 @@ label {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 45px;
-    padding-top: 60px;
+    justify-content: center;
+    padding: 5%;
   }
 
   .contact-heading {
